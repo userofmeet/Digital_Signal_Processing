@@ -83,15 +83,4 @@ title(’Inverse FFT of X(k)’);
 xlabel(’Index’);
 ylabel(’Amplitude’);
 ```
-# DFT of signal for duration of 100s. 
-``` scilab
 
-```
-# Circular shift to x by 2 
-``` scilab
-
-```
-# Circular shift to x by 2 
-``` scilab
-
-```
